@@ -40,8 +40,28 @@ Hola, soy Julio Avantt!
 3. Boxplot.
 4. Violinplot.
  
-## Descargar con git
+##### Descargar con git
 
 ```bash
 git clone https://github.com/julioavantt/teacher_data_science_matplotlib_seaborn
 cd teacher_data_science_matplotlib_seaborn
+```
+
+##### Crear y activar el entorno virtual desde Terminal:
+
+```bash
+# Crear
+python -m venv .venv
+
+# Activar (Linux/macOS)
+source .venv/bin/activate
+
+# Activar (Windows - CMD)
+.venv\Scripts\activate
+```
+
+##### Instalar dependencias con Terminal:
+
+```bash
+pip install -r requirements.txt
+```
