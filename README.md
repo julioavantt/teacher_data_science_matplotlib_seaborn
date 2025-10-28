@@ -1,4 +1,4 @@
-# Curso de NumPy para Ciencia de Datos 🤖
+# Curso de Matplotlib y Seaborn para Ciencia de Datos 🤖
 
 [![Python Version](https://img.shields.io/badge/python–3.10-blue)]()  
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)]()
@@ -8,7 +8,7 @@ Hola, soy Julio Avantt!
 </div>
 <br>
 <p align="center">
- <img src="https://github.com/julioavantt/blob/main/unicorn-with-glasses.png" style="width:250px">
+ <img src="./unicorn-with-glasses.png" style="width:250px">
 </p>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
@@ -25,7 +25,7 @@ Hola, soy Julio Avantt!
   <br>
 
 ## Sobre el curso
-  
+
 ### Matplotlib
 
 1. ¿Qué es?
@@ -39,7 +39,7 @@ Hola, soy Julio Avantt!
 2. Heatmap.
 3. Boxplot.
 4. Violinplot.
- 
+
 ##### Descargar con git
 
 ```bash
