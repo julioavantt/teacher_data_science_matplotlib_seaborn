@@ -8,7 +8,7 @@ Hola, soy Julio Avantt!
 </div>
 <br>
 <p align="center">
- <img src="./unicorn-with-glasses.png" style="width:250px">
+ <img src="/unicorn-with-glasses.png" style="width:250px">
 </p>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
